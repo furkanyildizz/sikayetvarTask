@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-image: url("../assets/images/BG.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  
+
+  @media screen and (min-width:1050px) {
+    .container{
+      max-width: 70% !important;
+  }
+  }
+
+
+  

@@ -1,0 +1,27 @@
+.thanks{
+    color: #00CDAC;
+    font-size: 1.2rem;
+}
+
+.footerdate{
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.icons{
+    padding: 5px !important;
+    margin: 5px !important;
+}
+
+@media screen and (min-width:768px) {
+    .iconsdiv{
+        text-align: right;
+    }
+    
+}
+
+
+img, svg {
+    padding: 5px;
+    margin: 5px;
+}

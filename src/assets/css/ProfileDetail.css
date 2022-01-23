@@ -1,0 +1,9 @@
+.profilecard p{
+    margin-bottom: 0px;
+    font-size: 0.98rem;
+}
+
+.map-container {
+    height: 100%;
+    width: 100%;
+    }

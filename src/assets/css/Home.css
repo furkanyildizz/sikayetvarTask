@@ -1,0 +1,13 @@
+.homedatatable .kICYaO{
+    justify-content: right !important;
+}
+
+
+@media screen and (max-width:768px) {
+    .buttonsdiv .btn{
+        width: 100%;
+        margin-top: 5px !important;
+    }
+}
+
+
