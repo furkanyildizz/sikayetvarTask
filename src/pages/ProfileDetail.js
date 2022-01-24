@@ -78,9 +78,9 @@ const ProfileDetail = () => {
                                 </Map>
                             </Col>
                         </Row>
-                        <Row>
+                        <Row >
                             <Col>
-                                <p style={{ marginTop: "10%", color: "#525F7F" }} className='text-center'>
+                                <p style={{ marginTop: "6%", color: "#525F7F",paddingTop:"4%",borderTop:"2px solid #E9ECEF"}} className='text-center'>
                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                     Ut ea nostrum numquam officiis quas commodi dolores nobis eaque veniam quos impedit sit,
                                     eligendi architecto cum vitae minima suscipit cupiditate iure ratione asperiores rerum atque aperiam deserunt est.
